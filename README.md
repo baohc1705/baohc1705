@@ -20,9 +20,8 @@
 ### 🧑‍💻 Về mình
 
 - 💼 Đang là sinh viên **Software Engineer**, đam mê xây dựng sản phẩm có ý nghĩa
-- 🚀 Yêu thích **backend development**, **system design**
+- 🚀 Yêu thích **design**, **backend development**, **system design**
 - 🌱 Luôn học hỏi những công nghệ mới mỗi ngày
-- 🧩 Thích giải quyết các bài toán khó và tối ưu hiệu năng hệ thống
 - 🎮 Ngoài code: xem phim, đi bộ và gym bro.
 - 📍 Sống và làm việc tại **Hồ Chí Minh, Việt Nam**
 
