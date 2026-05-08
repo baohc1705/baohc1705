@@ -7,12 +7,6 @@
 
 <br/>
 
-<div align="center">
-
-### 👋 Xin chào! Mình là **Bảo** — một lập trình viên đến từ Việt Nam 🌏
-
-</div>
-
 ---
 
 <img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
